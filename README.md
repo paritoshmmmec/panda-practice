@@ -12,6 +12,8 @@ Install poetry dependencies using `poetry install`.
 - Also show how to use matplotlib
 
 
-## Reference books
+## References
 
 ![image](https://raw.githubusercontent.com/paritoshmmmec/panda-practice/main/images/download.png)
+
+https://github.com/guipsamora/pandas_exercises
