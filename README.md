@@ -17,3 +17,4 @@ Install poetry dependencies using `poetry install`.
 ![image](https://raw.githubusercontent.com/paritoshmmmec/panda-practice/main/images/download.png)
 
 https://github.com/guipsamora/pandas_exercises
+https://github.com/tommyod/awesome-pandas
